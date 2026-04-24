@@ -3,7 +3,6 @@ module github.com/bnb-chain/example-hub/go/event-listener
 go 1.24.2
 
 require (
-	github.com/HarisShariff/chainsub v0.0.0-20250612080424-3a567b5a53d5
 	github.com/ethereum/go-ethereum v1.15.11
 	github.com/fatih/color v1.18.0
 	github.com/urfave/cli/v2 v2.27.6
@@ -34,8 +33,8 @@ require (
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
-	golang.org/x/crypto v0.35.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
